@@ -16,7 +16,7 @@
 - Easy and quick access to various courses and contents
 
 
-<a href="/screenshot/Slide.jpg" target="_blank"><img src="/screenshot/Slide.jpg" width="750" /></a>
+<a href="/screenshot/Slide.jpg" target="_blank"><img src="/screenshot/Slide6.jpg" width="750" /></a>
 
 
 
